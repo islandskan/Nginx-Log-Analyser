@@ -1,5 +1,5 @@
 # nginx Log Analyser Tools
-A tool to analyze nginx logs from the command line. This project is part of [roadmap.sh](https://roadmap.sh/projects/log-archive-tool) DevOps projects.
+A tool to analyze nginx logs from the command line. This project is part of [roadmap.sh](https://roadmap.sh/projects/nginx-log-analyser) DevOps projects.
 
 ## Features
 - Validates if log file path was provided as an argument
